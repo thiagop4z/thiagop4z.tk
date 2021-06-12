@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://thiagop4z.tk/posts/my-first-post/</loc>
+    <lastmod>2021-06-11T22:29:17-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thiagop4z.tk/posts/</loc>
+    <lastmod>2021-06-11T22:29:17-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thiagop4z.tk/</loc>
+    <lastmod>2021-06-11T22:29:17-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thiagop4z.tk/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://thiagop4z.tk/tags/</loc>
+  </url>
+  
+</urlset>

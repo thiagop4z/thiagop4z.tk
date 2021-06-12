@@ -1,0 +1,55 @@
+baseURL = "http://thiagop4z.tk/"
+languageCode = "en-us"
+title = "Welcome to my cloud resume!"
+description = "This website is a cloud resume project from Thiago Paz."
+theme = "anatole"
+#googleAnalytics = "UA-111111111111-1"
+copyright = "Thiago Paz"
+enableRobotsTXT = true
+
+
+[params]
+#title = "Hi, I'm Thiago Paz!"
+author = "Thiago Paz"
+description = "And this is my cloud resume, a project developed to practice DevOps skills."
+profilePicture = "images/thiagop4z.jpg"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+contentratio = 0.7
+mainSections = []
+disableThemeSwitcher = true
+
+[Languages]
+  [Languages.en]
+  title = "Hi, I'm Thiago Paz!"
+  weight = 1
+  LanguageName = "EN"
+
+  [Languages.pt]
+  title = "Olá, Eu sou Thiago Paz!"
+  description = "Ich bin Jane"
+  weight = 2
+  LanguageName = "PT-BR"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/thiagop4z/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/thiagop4z"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:thiagop4z+cloudresume@gmail.com"
+
+[permalinks]
+    posts = "/:year/:month/:slug/"
+    page = "/:slug/"
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
